@@ -1,6 +1,7 @@
 # Cube Tracker Android
 Just a modified Tensorflow Android Camera Demo that tracks power cubes. Unfortunately, it has a pretty long cube acquisition time, so it is pretty bad in actual use.
 
+Tested on Android 8.1 Oreo. If you want to test it on a different version, change the inteneded API level in the `build.gradle` file.
 # TensorFlow Android Camera Demo
 
 This folder contains an example application utilizing TensorFlow for Android
